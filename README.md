@@ -5,4 +5,7 @@ Isi dari repository ini adalah sebagai berikut :
 * Tugas Kampus
 * Tugas Teman
 
+
+Teruslah belajar Jangan berharap pada Kampus.
+
 #	Sekian dan Terimakasih
